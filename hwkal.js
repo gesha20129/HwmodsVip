@@ -27,8 +27,8 @@ global.botname = 'Anu BOTZ' //ubah jadi nama bot mu, note tanda ' gausah di hapu
 global.footer = 'Anu BOTZ' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
 // Other
-global.owner = ['6285891318105']
-global.premium = ['6285891318105']
+global.owner = ['6285894141273']
+global.premium = ['6285894141273']
 global.packname = 'Anu BOTZ'
 global.ownerr = ['Anu BOTZ']
 global.author = 'Anu BOTZ'
